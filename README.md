@@ -14,6 +14,8 @@ Each boid should move toward the average direction and with the average speed of
 ####Cohesion 
 Each boid should move toward the average position of its flockmates. 
 
+His research made its way into a paper in ACM SIGGRAPH 1987, an annual conference on computer graphics, and has since been one of the most cited examples of the principles of artificial life. 
+
 ##License
 
 According to the book 《Exploring.Everyday.Things.with.R.and.Ruby》of chapter 7 examples.
