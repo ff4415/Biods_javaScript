@@ -9,14 +9,13 @@ simulation. Instead of programming complex behavior for the boids, Reynolds proÂ
 vided three simple rules: 
 
 ####Separation 
-     Each boid should stay away from its flockmates to avoid overcrowding. 
+Each boid should stay away from its flockmates to avoid overcrowding. 
 
 ####Alignment 
-     Each boid should move toward the average direction and with the average speed 
-     of its flockmates. 
+Each boid should move toward the average direction and with the average speed of its flockmates. 
 
 ####Cohesion 
-     Each boid should move toward the average position of its flockmates. 
+Each boid should move toward the average position of its flockmates. 
 
 ##License
 
