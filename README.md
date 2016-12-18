@@ -17,3 +17,8 @@ Alignment
 
 Cohesion 
      Each boid should move toward the average position of its flockmates. 
+
+
+According to the book 《Exploring.Everyday.Things.with.R.and.Ruby》of chapter 7 examples.
+
+Based on [Stage.js](https://github.com/shakiba/stage.js) and [p2.js](https://github.com/schteppe/p2.js)
