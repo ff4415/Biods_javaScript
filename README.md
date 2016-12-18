@@ -3,10 +3,7 @@ Rewrite Biods_base in JavaScript
 
 ##The Origin of Boids
 
-Boids is an artificial life program developed by Craig Reynolds to simulate the be­ 
-havior of flocking birds. The name refers to the birdlike objects that populate the 
-simulation. Instead of programming complex behavior for the boids, Reynolds pro­ 
-vided three simple rules: 
+Boids is an artificial life program developed by Craig Reynolds to simulate the behavior of flocking birds. The name refers to the birdlike objects that populate the simulation. Instead of programming complex behavior for the boids, Reynolds provided three simple rules: 
 
 ####Separation 
 Each boid should stay away from its flockmates to avoid overcrowding. 
