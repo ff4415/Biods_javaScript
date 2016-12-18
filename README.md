@@ -1,5 +1,5 @@
 # Biods_javaScript
-rewrite Biods_base in JavaScript
+Rewrite Biods_base in JavaScript
 
 ##The Origin of Boids
 
